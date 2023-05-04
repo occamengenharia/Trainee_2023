@@ -34,10 +34,10 @@
 - Agora com base nos requisitos do software:
     - Listam-se de tarefas para o desenvolvimento
     - Estima-se o tempo que essas tarefas custarão
-    - Escolhe  membros da equipe de desnvolvimento
+    - Escolhe  membros da equipe de desenvolvimento
     - Modelagem da interface e arquitetura do sistema
     - apos a interface ter sido esboçada fica mais claro ainda oque deve ser alterado na análise de requisitos
-      -**Todo o processo deve ser documentado e toda alteração na análise de requisitos **  
+      >**Todo o processo deve ser documentado e toda alteração na análise de requisitos**  
 ### Implementação 	:computer: 
 - Hora de *CODAR*
 - A duração dessa fase depende da complexidade  do software a ser desenvolvido , quantidade de membros na equipe , fora imprevistos 
