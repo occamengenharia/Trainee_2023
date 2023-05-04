@@ -138,8 +138,6 @@
 ### Obejtivos do Treinamento :crossed_swords:
 - Trazer uma solução para o cliente , vende-lá e desenvolve-lá aplicando os conceitos das metodologias ágeis.
 
-- Grupo 1:
-     
-     
-- Grupo 2:
+
+
     
